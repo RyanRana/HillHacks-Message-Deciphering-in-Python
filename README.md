@@ -1,1 +1,2 @@
 # HillHacks-Message-Deciphering-in-Python
+This is the official repositry for the 2022 HillHacks "Message Deciphering" workshop on Feburary 6. In this workshop students learned what message deciphering is, how message deciphering was used in WWII, basic Python concepts with strings, and deciphered messages of their own. Here you will find all reasources used in the workshop. Thank you for viewing, we hope you can find something useful.
