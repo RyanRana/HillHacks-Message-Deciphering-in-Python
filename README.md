@@ -7,6 +7,6 @@ Video Presentation: COMING SOON
 <br>
 Message Deciphering Challenges: https://docs.google.com/document/d/12u2U3uNLJfHqI6VHKNpaiqgNpnulJllX0Tzp4pAWUks/edit?usp=sharing
 <br>
-Code and Soultions: see "soultions" folder
+Code and Soultions: see the python files
 <br>
 Creator Email: ryanrana04@gmail.com
